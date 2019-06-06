@@ -1,3 +1,13 @@
+## Notes about Github:
+**How to update the repo:**
+```
+Do work
+git add .
+git commit -m "update..."
+git pull
+git push
+```
+
 
 
 ##TODO
